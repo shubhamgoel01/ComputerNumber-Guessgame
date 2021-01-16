@@ -12,4 +12,4 @@ def guesscomp(x):
 
     print(f'Winner Winner , Right Guess !! , Number : {random_number}')
 
-guesscomp(10)
+guesscomp(1000)
